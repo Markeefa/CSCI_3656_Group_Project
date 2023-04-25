@@ -2,6 +2,7 @@
 
 Link to the repository we are using: https://github.com/charnley/rmsd
 
+Link to powerpoint: https://docs.google.com/presentation/d/18jdjhP5K90qVrc9it5E08XOHAVaShhVy2llUvPghoog/edit?usp=sharing
 
 Discord - link removed since everyone in the group has joined.
 
